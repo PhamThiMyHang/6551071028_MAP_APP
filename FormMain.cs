@@ -121,7 +121,13 @@ namespace QuanLyHoatDongKhachSan
 
         private void button4_Click(object sender, EventArgs e)
         {
-            HienThiDangPhatTrien("Loại phòng");
+              Form formCon = new LoaiPhong.FormDanhSachLoaiPhong();
+            formCon.TopLevel = false;
+            formCon.FormBorderStyle = FormBorderStyle.None;
+            formCon.Dock = DockStyle.Fill;
+            XoaNoiDungPanelMain();
+            panelMain.Controls.Add(formCon);
+            formCon.Show();
         }
 
         private void button7_Click(object sender, EventArgs e)

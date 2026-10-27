@@ -95,7 +95,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1002, 450);
+            ClientSize = new Size(1042, 694);
             Controls.Add(dtgDanhSachPhong);
             Controls.Add(btnThemMoiPhong);
             Controls.Add(btnXuatExcel);

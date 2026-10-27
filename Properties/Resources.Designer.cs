@@ -221,12 +221,32 @@ namespace QuanLyHoatDongKhachSan.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap delete2 {
+            get {
+                object obj = ResourceManager.GetObject("delete2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] details {
             get {
                 object obj = ResourceManager.GetObject("details", resourceCulture);
                 return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap details1 {
+            get {
+                object obj = ResourceManager.GetObject("details1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -287,6 +307,16 @@ namespace QuanLyHoatDongKhachSan.Properties {
             get {
                 object obj = ResourceManager.GetObject("edit", resourceCulture);
                 return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap edit1 {
+            get {
+                object obj = ResourceManager.GetObject("edit1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -411,22 +441,12 @@ namespace QuanLyHoatDongKhachSan.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static byte[] Giuong {
+        internal static System.Drawing.Bitmap Giuong2 {
             get {
-                object obj = ResourceManager.GetObject("Giuong", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] Giuong1 {
-            get {
-                object obj = ResourceManager.GetObject("Giuong1", resourceCulture);
-                return ((byte[])(obj));
+                object obj = ResourceManager.GetObject("Giuong2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -777,6 +797,16 @@ namespace QuanLyHoatDongKhachSan.Properties {
             get {
                 object obj = ResourceManager.GetObject("phong_icon", resourceCulture);
                 return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Phong1 {
+            get {
+                object obj = ResourceManager.GetObject("Phong1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         

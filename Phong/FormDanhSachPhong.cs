@@ -8,15 +8,15 @@ using System.Windows.Forms;
 using ClosedXML.Excel;
 using QuanLyHoatDongKhachSan.Models;
 using Microsoft.EntityFrameworkCore;
-
+using QuanLyHoatDongKhachSan;
 namespace QuanLyHoatDongKhachSan.Phong
 {
     public partial class FormDanhSachPhong : Form
     {
 
-        private readonly Image _iconPhong = Properties.Resources.Phong;
-        private readonly Image _iconSua = Properties.Resources.edit;
-        private readonly Image _iconXoa = Properties.Resources.delete;
+        private readonly Image _iconPhong = QuanLyHoatDongKhachSan.Properties.Resources.Phong1;
+        private readonly Image _iconSua = QuanLyHoatDongKhachSan.Properties.Resources.edit1;
+        private readonly Image _iconXoa = QuanLyHoatDongKhachSan.Properties.Resources.delete2;
         public FormDanhSachPhong()
         {
             InitializeComponent();
