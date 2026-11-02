@@ -251,12 +251,12 @@ namespace QuanLyHoatDongKhachSan.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static byte[] DichVu {
+        internal static System.Drawing.Bitmap DichVu {
             get {
                 object obj = ResourceManager.GetObject("DichVu", resourceCulture);
-                return ((byte[])(obj));
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -493,6 +493,16 @@ namespace QuanLyHoatDongKhachSan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap KhachHang1 {
+            get {
+                object obj = ResourceManager.GetObject("KhachHang1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Menu {
             get {
                 object obj = ResourceManager.GetObject("Menu", resourceCulture);
@@ -707,6 +717,16 @@ namespace QuanLyHoatDongKhachSan.Properties {
             get {
                 object obj = ResourceManager.GetObject("NhanVien1", resourceCulture);
                 return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NhanVien2 {
+            get {
+                object obj = ResourceManager.GetObject("NhanVien2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -1021,12 +1041,12 @@ namespace QuanLyHoatDongKhachSan.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static byte[] TienNghi {
+        internal static System.Drawing.Bitmap TienNghi {
             get {
                 object obj = ResourceManager.GetObject("TienNghi", resourceCulture);
-                return ((byte[])(obj));
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
