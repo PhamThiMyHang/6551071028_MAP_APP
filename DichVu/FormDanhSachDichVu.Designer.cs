@@ -82,7 +82,7 @@
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 6;
             pictureBox1.TabStop = false;
-            pictureBox1.Click += this.pictureBox1_Click;
+         //   pictureBox1.Click += this.pictureBox1_Click;
             // 
             // txtTimKiem
             // 

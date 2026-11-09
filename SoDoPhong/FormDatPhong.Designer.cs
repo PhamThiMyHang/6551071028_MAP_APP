@@ -45,18 +45,18 @@
             dtgDanhSachPhongDaChon = new DataGridView();
             dtgDanhSachPhongTrong = new DataGridView();
             panel2 = new Panel();
-            label1 = new Label();
-            label8 = new Label();
-            label9 = new Label();
-            label10 = new Label();
-            cbDangGioDi = new ComboBox();
-            cbDangioDen = new ComboBox();
+            dtpNgayKT = new DateTimePicker();
+            dtpNgayBD = new DateTimePicker();
+            label12 = new Label();
+            label11 = new Label();
             cbGioDen = new ComboBox();
             cbGioDi = new ComboBox();
-            label11 = new Label();
-            label12 = new Label();
-            dtpNgayBD = new DateTimePicker();
-            dtpNgayKT = new DateTimePicker();
+            cbDangGioDi = new ComboBox();
+            cbDangGioDen = new ComboBox();
+            label10 = new Label();
+            label9 = new Label();
+            label8 = new Label();
+            label1 = new Label();
             label13 = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dtgDanhSachPhongDaChon).BeginInit();
@@ -130,6 +130,7 @@
             txtCCCD.Name = "txtCCCD";
             txtCCCD.Size = new Size(272, 34);
             txtCCCD.TabIndex = 22;
+            txtCCCD.TextChanged += txtCCCD_TextChanged;
             // 
             // txtHoVaTen
             // 
@@ -201,6 +202,7 @@
             btnThoat.TabIndex = 36;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = false;
+            btnThoat.Click += button2_Click;
             // 
             // btnDatPhong
             // 
@@ -213,6 +215,7 @@
             btnDatPhong.TabIndex = 35;
             btnDatPhong.Text = "Đặt trước";
             btnDatPhong.UseVisualStyleBackColor = false;
+            btnDatPhong.Click += btnDatPhong_Click;
             // 
             // dtgDanhSachPhongDaChon
             // 
@@ -222,6 +225,7 @@
             dtgDanhSachPhongDaChon.RowHeadersWidth = 51;
             dtgDanhSachPhongDaChon.Size = new Size(300, 188);
             dtgDanhSachPhongDaChon.TabIndex = 0;
+            dtgDanhSachPhongDaChon.CellClick += dtgDanhSachPhongDaChon_CellClick;
             // 
             // dtgDanhSachPhongTrong
             // 
@@ -231,6 +235,7 @@
             dtgDanhSachPhongTrong.RowHeadersWidth = 51;
             dtgDanhSachPhongTrong.Size = new Size(300, 188);
             dtgDanhSachPhongTrong.TabIndex = 38;
+            dtgDanhSachPhongTrong.CellClick += dtgDanhSachPhongTrong_CellClick;
             // 
             // panel2
             // 
@@ -238,10 +243,10 @@
             panel2.Controls.Add(dtpNgayBD);
             panel2.Controls.Add(label12);
             panel2.Controls.Add(label11);
-            panel2.Controls.Add(cbGioDi);
             panel2.Controls.Add(cbGioDen);
-            panel2.Controls.Add(cbDangioDen);
+            panel2.Controls.Add(cbGioDi);
             panel2.Controls.Add(cbDangGioDi);
+            panel2.Controls.Add(cbDangGioDen);
             panel2.Controls.Add(label10);
             panel2.Controls.Add(label9);
             panel2.Controls.Add(label8);
@@ -251,92 +256,20 @@
             panel2.Size = new Size(651, 281);
             panel2.TabIndex = 39;
             // 
-            // label1
+            // dtpNgayKT
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 12F);
-            label1.Location = new Point(3, 26);
-            label1.Name = "label1";
-            label1.Size = new Size(131, 28);
-            label1.TabIndex = 34;
-            label1.Text = "Ngày bắt đầu";
+            dtpNgayKT.Location = new Point(143, 99);
+            dtpNgayKT.Name = "dtpNgayKT";
+            dtpNgayKT.Size = new Size(250, 27);
+            dtpNgayKT.TabIndex = 45;
             // 
-            // label8
+            // dtpNgayBD
             // 
-            label8.AutoSize = true;
-            label8.Font = new Font("Segoe UI", 12F);
-            label8.Location = new Point(3, 99);
-            label8.Name = "label8";
-            label8.Size = new Size(134, 28);
-            label8.TabIndex = 35;
-            label8.Text = "Ngày kết thúc";
-            // 
-            // label9
-            // 
-            label9.AutoSize = true;
-            label9.Font = new Font("Segoe UI", 12F);
-            label9.Location = new Point(395, 27);
-            label9.Name = "label9";
-            label9.Size = new Size(81, 28);
-            label9.TabIndex = 36;
-            label9.Text = "Giờ đến";
-            // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.Font = new Font("Segoe UI", 12F);
-            label10.Location = new Point(411, 98);
-            label10.Name = "label10";
-            label10.Size = new Size(65, 28);
-            label10.TabIndex = 37;
-            label10.Text = "Giở đi";
-            // 
-            // cbDangGioDi
-            // 
-            cbDangGioDi.FormattingEnabled = true;
-            cbDangGioDi.Location = new Point(589, 31);
-            cbDangGioDi.Name = "cbDangGioDi";
-            cbDangGioDi.Size = new Size(43, 28);
-            cbDangGioDi.TabIndex = 38;
-            // 
-            // cbDangioDen
-            // 
-            cbDangioDen.FormattingEnabled = true;
-            cbDangioDen.Location = new Point(589, 94);
-            cbDangioDen.Name = "cbDangioDen";
-            cbDangioDen.Size = new Size(50, 28);
-            cbDangioDen.TabIndex = 39;
-            // 
-            // cbGioDen
-            // 
-            cbGioDen.FormattingEnabled = true;
-            cbGioDen.Items.AddRange(new object[] { "\"01:00\"", "            \"01:30\"", "            \"02:00\"", "            \"02:30\" ", "            \"03:00\" ", "            \"03:30\" ", "            \"04:00\" ", "            \"04:30\" ", "            \"05:00\" ", "            \"05:30\" ", "            \"06:00\" ", "            \"06:30\" ", "            \"07:00\" ", "            \"07:30\" ", "            \"08:00\" ", "            \"08:30\", ", "            \"09:00\", ", "            \"09:30\", ", "            \"10:00\", ", "            \"10:30\", ", "            \"11:00\", ", "            \"11:30\", ", "            \"12:00\", ", "            \"12:30\"" });
-            cbGioDen.Location = new Point(482, 95);
-            cbGioDen.Name = "cbGioDen";
-            cbGioDen.Size = new Size(101, 28);
-            cbGioDen.TabIndex = 40;
-            // 
-            // cbGioDi
-            // 
-            cbGioDi.FormattingEnabled = true;
-            cbGioDi.Items.AddRange(new object[] { "\"01:00\"", "            \"01:30\"", "            \"02:00\"", "            \"02:30\" ", "            \"03:00\" ", "            \"03:30\" ", "            \"04:00\" ", "            \"04:30\" ", "            \"05:00\" ", "            \"05:30\" ", "            \"06:00\" ", "            \"06:30\" ", "            \"07:00\" ", "            \"07:30\" ", "            \"08:00\" ", "            \"08:30\", ", "            \"09:00\", ", "            \"09:30\", ", "            \"10:00\", ", "            \"10:30\", ", "            \"11:00\", ", "            \"11:30\", ", "            \"12:00\", ", "            \"12:30\"" });
-            cbGioDi.Location = new Point(482, 31);
-            cbGioDi.Name = "cbGioDi";
-            cbGioDi.Size = new Size(101, 28);
-            cbGioDi.TabIndex = 41;
-            cbGioDi.SelectedIndexChanged += cbGioDi_SelectedIndexChanged;
-            // 
-            // label11
-            // 
-            label11.AutoSize = true;
-            label11.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
-            label11.ForeColor = Color.Green;
-            label11.Location = new Point(381, 253);
-            label11.Name = "label11";
-            label11.Size = new Size(258, 28);
-            label11.TabIndex = 42;
-            label11.Text = "Danh sách phòng đã chọn";
-            label11.Click += label11_Click;
+            dtpNgayBD.Location = new Point(143, 29);
+            dtpNgayBD.Name = "dtpNgayBD";
+            dtpNgayBD.Size = new Size(250, 27);
+            dtpNgayBD.TabIndex = 44;
+            dtpNgayBD.ValueChanged += dtpNgayBD_ValueChanged;
             // 
             // label12
             // 
@@ -349,19 +282,92 @@
             label12.TabIndex = 43;
             label12.Text = "Danh sách phòng trống";
             // 
-            // dtpNgayBD
+            // label11
             // 
-            dtpNgayBD.Location = new Point(143, 29);
-            dtpNgayBD.Name = "dtpNgayBD";
-            dtpNgayBD.Size = new Size(250, 27);
-            dtpNgayBD.TabIndex = 44;
+            label11.AutoSize = true;
+            label11.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            label11.ForeColor = Color.Green;
+            label11.Location = new Point(381, 253);
+            label11.Name = "label11";
+            label11.Size = new Size(258, 28);
+            label11.TabIndex = 42;
+            label11.Text = "Danh sách phòng đã chọn";
             // 
-            // dtpNgayKT
+            // cbGioDen
             // 
-            dtpNgayKT.Location = new Point(143, 99);
-            dtpNgayKT.Name = "dtpNgayKT";
-            dtpNgayKT.Size = new Size(250, 27);
-            dtpNgayKT.TabIndex = 45;
+            cbGioDen.FormattingEnabled = true;
+            cbGioDen.Items.AddRange(new object[] { "\"01:00\"", "            \"01:30\"", "            \"02:00\"", "            \"02:30\" ", "            \"03:00\" ", "            \"03:30\" ", "            \"04:00\" ", "            \"04:30\" ", "            \"05:00\" ", "            \"05:30\" ", "            \"06:00\" ", "            \"06:30\" ", "            \"07:00\" ", "            \"07:30\" ", "            \"08:00\" ", "            \"08:30\", ", "            \"09:00\", ", "            \"09:30\", ", "            \"10:00\", ", "            \"10:30\", ", "            \"11:00\", ", "            \"11:30\", ", "            \"12:00\", ", "            \"12:30\"" });
+            cbGioDen.Location = new Point(482, 31);
+            cbGioDen.Name = "cbGioDen";
+            cbGioDen.Size = new Size(101, 28);
+            cbGioDen.TabIndex = 41;
+            // 
+            // cbGioDi
+            // 
+            cbGioDi.FormattingEnabled = true;
+            cbGioDi.Items.AddRange(new object[] { "\"01:00\"", "            \"01:30\"", "            \"02:00\"", "            \"02:30\" ", "            \"03:00\" ", "            \"03:30\" ", "            \"04:00\" ", "            \"04:30\" ", "            \"05:00\" ", "            \"05:30\" ", "            \"06:00\" ", "            \"06:30\" ", "            \"07:00\" ", "            \"07:30\" ", "            \"08:00\" ", "            \"08:30\", ", "            \"09:00\", ", "            \"09:30\", ", "            \"10:00\", ", "            \"10:30\", ", "            \"11:00\", ", "            \"11:30\", ", "            \"12:00\", ", "            \"12:30\"" });
+            cbGioDi.Location = new Point(482, 95);
+            cbGioDi.Name = "cbGioDi";
+            cbGioDi.Size = new Size(101, 28);
+            cbGioDi.TabIndex = 40;
+            // 
+            // cbDanGioDi
+            // 
+            cbDangGioDi.FormattingEnabled = true;
+            cbDangGioDi.Items.AddRange(new object[] { "AM", "PM" });
+            cbDangGioDi.Location = new Point(589, 94);
+            cbDangGioDi.Name = "cbDanGioDi";
+            cbDangGioDi.Size = new Size(50, 28);
+            cbDangGioDi.TabIndex = 39;
+            // 
+            // cbDangGioDen
+            // 
+            cbDangGioDen.FormattingEnabled = true;
+            cbDangGioDen.Items.AddRange(new object[] { "AM", "PM" });
+            cbDangGioDen.Location = new Point(589, 31);
+            cbDangGioDen.Name = "cbDangGioDen";
+            cbDangGioDen.Size = new Size(43, 28);
+            cbDangGioDen.TabIndex = 38;
+            // 
+            // label10
+            // 
+            label10.AutoSize = true;
+            label10.Font = new Font("Segoe UI", 12F);
+            label10.Location = new Point(411, 98);
+            label10.Name = "label10";
+            label10.Size = new Size(65, 28);
+            label10.TabIndex = 37;
+            label10.Text = "Giở đi";
+            // 
+            // label9
+            // 
+            label9.AutoSize = true;
+            label9.Font = new Font("Segoe UI", 12F);
+            label9.Location = new Point(395, 27);
+            label9.Name = "label9";
+            label9.Size = new Size(81, 28);
+            label9.TabIndex = 36;
+            label9.Text = "Giờ đến";
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Segoe UI", 12F);
+            label8.Location = new Point(3, 99);
+            label8.Name = "label8";
+            label8.Size = new Size(134, 28);
+            label8.TabIndex = 35;
+            label8.Text = "Ngày kết thúc";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 12F);
+            label1.Location = new Point(3, 26);
+            label1.Name = "label1";
+            label1.Size = new Size(131, 28);
+            label1.TabIndex = 34;
+            label1.Text = "Ngày bắt đầu";
             // 
             // label13
             // 
@@ -388,6 +394,7 @@
             Controls.Add(btnDatPhong);
             Name = "FormDatPhong";
             Text = "FormDatPhong";
+            Load += FormDatPhong_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dtgDanhSachPhongDaChon).EndInit();
@@ -417,16 +424,17 @@
         private DataGridView dtgDanhSachPhongDaChon;
         private DataGridView dtgDanhSachPhongTrong;
         private Panel panel2;
-        private ComboBox cbGioDen;
-        private ComboBox cbDangioDen;
+        private ComboBox cbGioDi;
         private ComboBox cbDangGioDi;
+        private ComboBox cbDangGioDen;
+
         private Label label10;
         private Label label9;
         private Label label8;
         private Label label1;
         private Label label12;
         private Label label11;
-        private ComboBox cbGioDi;
+        private ComboBox cbGioDen;
         private DateTimePicker dtpNgayKT;
         private DateTimePicker dtpNgayBD;
         private Label label13;

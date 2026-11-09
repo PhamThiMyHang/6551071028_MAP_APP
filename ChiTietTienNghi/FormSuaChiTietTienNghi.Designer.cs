@@ -30,12 +30,12 @@
         {
             btnCapNhat = new Button();
             panel1 = new Panel();
+            txtTenTN = new TextBox();
             txtSoLuong = new TextBox();
             label5 = new Label();
             label1 = new Label();
             btnThoat = new Button();
             LabelThemTienNghi = new Label();
-            txtTenTN = new TextBox();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -50,6 +50,7 @@
             btnCapNhat.TabIndex = 37;
             btnCapNhat.Text = "Cập nhật";
             btnCapNhat.UseVisualStyleBackColor = false;
+            btnCapNhat.Click += btnCapNhat_Click;
             // 
             // panel1
             // 
@@ -62,6 +63,17 @@
             panel1.Padding = new Padding(3, 4, 3, 4);
             panel1.Size = new Size(507, 172);
             panel1.TabIndex = 38;
+            // 
+            // txtTenTN
+            // 
+            txtTenTN.AcceptsReturn = true;
+            txtTenTN.Font = new Font("Segoe UI", 12F);
+            txtTenTN.Location = new Point(214, 26);
+            txtTenTN.Margin = new Padding(3, 4, 3, 4);
+            txtTenTN.Name = "txtTenTN";
+            txtTenTN.ReadOnly = true;
+            txtTenTN.Size = new Size(211, 34);
+            txtTenTN.TabIndex = 22;
             // 
             // txtSoLuong
             // 
@@ -102,6 +114,7 @@
             btnThoat.TabIndex = 39;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = false;
+            btnThoat.Click += btnThoat_Click;
             // 
             // LabelThemTienNghi
             // 
@@ -114,17 +127,6 @@
             LabelThemTienNghi.TabIndex = 40;
             LabelThemTienNghi.Text = "Cập nhật thông tin tiện nghi của loại phòng";
             // 
-            // txtTenTN
-            // 
-            txtTenTN.AcceptsReturn = true;
-            txtTenTN.Font = new Font("Segoe UI", 12F);
-            txtTenTN.Location = new Point(214, 26);
-            txtTenTN.Margin = new Padding(3, 4, 3, 4);
-            txtTenTN.Name = "txtTenTN";
-            txtTenTN.ReadOnly = true;
-            txtTenTN.Size = new Size(211, 34);
-            txtTenTN.TabIndex = 22;
-            // 
             // FormSuaChiTietTienNghi
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -136,6 +138,7 @@
             Controls.Add(LabelThemTienNghi);
             Name = "FormSuaChiTietTienNghi";
             Text = "FormSuaChiTietTienNghi";
+            Load += FormSuaChiTietTienNghi_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);

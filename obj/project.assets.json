@@ -4360,11 +4360,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
+      "projectUniqueName": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
       "projectName": "QuanLyHoatDongKhachSan",
-      "projectPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
+      "projectPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
       "packagesPath": "C:\\Users\\MY HANG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\obj\\",
+      "outputPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

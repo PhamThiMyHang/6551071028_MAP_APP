@@ -1,248 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\",
+  "WorkspaceRootPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\tiennghi\\formdanhsachtiennghi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:tiennghi\\formdanhsachtiennghi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formthuemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formthuemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formthuemdichvuphongdadung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formthuemdichvuphongdadung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formthuemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formthuemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\phieuthue\\formsuachitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phieuthue\\formsuachitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab12\\quanlyhoatdongkhachsan\\taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\chitiettiennghi\\formsuachitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:chitiettiennghi\\formsuachitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phong\\formthemphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phong\\formdanhsachphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:loaiphong\\formsualoaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:loaiphong\\formthemloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phong\\formsuaphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\phong\\formdanhsachphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:phong\\formdanhsachphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\formtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:formtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\sodophong\\formsodophong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:sodophong\\formsodophong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\dangnhap\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dangnhap\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\dangnhap\\formdangnhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:dangnhap\\formdangnhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\models\\ctdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:models\\ctdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|c:\\users\\my hang\\downloads\\thuchanhlab1\\quanlyhoatdongkhachsan\\models\\ctdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:models\\ctdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY HANG\\Downloads\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MY HANG\\Downloads\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27549CDE-2B15-77E2-C7B7-DA51BDB3E5E1}|QuanLyHoatDongKhachSan.csproj|solutionrelative:hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -252,33 +94,196 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormThemChiTietTienNghi.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "RelativeToolTip": "ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAADgv7MAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormSuaTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan\\FormSuaTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "RelativeToolTip": "TaiKhoan\\FormSuaTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T04:09:15.388Z",
+              "WhenOpened": "2026-11-09T04:22:21.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormDanhSachChiTietTienNghi.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "RelativeToolTip": "ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FormDanhSachTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "RelativeToolTip": "TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAewLIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T04:07:14.044Z",
+              "WhenOpened": "2026-11-09T04:21:06.563Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDanhSachHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormDanhSachHoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon\\FormDanhSachHoaDon.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormDanhSachHoaDon.cs",
+              "RelativeToolTip": "HoaDon\\FormDanhSachHoaDon.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:18:25.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon\\FormHoaDon.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormHoaDon.cs",
+              "RelativeToolTip": "HoaDon\\FormHoaDon.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAAAE8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:19:22.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDanhSachPhieuThue.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormDanhSachPhieuThue.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "RelativeToolTip": "PhieuThue\\FormDanhSachPhieuThue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:17:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-09T04:15:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormChiTietPhieuThue.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormChiTietPhieuThue.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "RelativeToolTip": "PhieuThue\\FormChiTietPhieuThue.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAAALkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:12:52.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDanhSachDichVuPhongDaDung.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "RelativeToolTip": "PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:10:14.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormThuemDichVuPhongDaDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormThuemDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormThuemDichVuPhongDaDung.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormThuemDichVuPhongDaDung.cs [Design]",
+              "RelativeToolTip": "PhieuThue\\FormThuemDichVuPhongDaDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:10:00.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDanhSachDichVuPhongDaDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs [Design]",
+              "RelativeToolTip": "PhieuThue\\FormDanhSachDichVuPhongDaDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T04:09:43.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormThuemDichVuPhongDaDung.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormThuemDichVuPhongDaDung.Designer.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormThuemDichVuPhongDaDung.Designer.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormThuemDichVuPhongDaDung.Designer.cs",
+              "RelativeToolTip": "PhieuThue\\FormThuemDichVuPhongDaDung.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA7wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:59:08.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormSuaChiTietPhieuThue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormSuaChiTietPhieuThue.cs [Design]",
+              "RelativeToolTip": "PhieuThue\\FormSuaChiTietPhieuThue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:56:24.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormThuemDichVuPhongDaDung.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormThuemDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormThuemDichVuPhongDaDung.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormThuemDichVuPhongDaDung.cs",
+              "RelativeToolTip": "PhieuThue\\FormThuemDichVuPhongDaDung.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:54:50.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSuaTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan\\FormSuaTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormSuaTaiKhoan.cs [Design]",
+              "RelativeToolTip": "TaiKhoan\\FormSuaTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:03:15.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormDanhSachHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormDanhSachHoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon\\FormDanhSachHoaDon.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormDanhSachHoaDon.cs [Design]",
+              "RelativeToolTip": "HoaDon\\FormDanhSachHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:16:55.326Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -294,726 +299,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormSuaNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormSuaNhanVien.cs",
-              "RelativeDocumentMoniker": "NhanVien\\FormSuaNhanVien.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormSuaNhanVien.cs [Design]",
-              "RelativeToolTip": "NhanVien\\FormSuaNhanVien.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "FormThemTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan\\FormThemTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "RelativeToolTip": "TaiKhoan\\FormThemTaiKhoan.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:18:00.187Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormThemChiTietTienNghi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs [Design]",
-              "RelativeToolTip": "ChiTietTienNghi\\FormThemChiTietTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:22:24.45Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormSuaNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormSuaNhanVien.cs",
-              "RelativeDocumentMoniker": "NhanVien\\FormSuaNhanVien.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormSuaNhanVien.cs",
-              "RelativeToolTip": "NhanVien\\FormSuaNhanVien.cs",
-              "ViewState": "AgIAAP4AAAAAAAAAAAAUwBUBAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T04:03:50.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormDanhSachChiTietTienNghi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs [Design]",
-              "RelativeToolTip": "ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:22:03.905Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormThemNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormThemNhanVien.cs",
-              "RelativeDocumentMoniker": "NhanVien\\FormThemNhanVien.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormThemNhanVien.cs [Design]",
-              "RelativeToolTip": "NhanVien\\FormThemNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:58:15.441Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormDanhSachNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormDanhSachNhanVien.cs",
-              "RelativeDocumentMoniker": "NhanVien\\FormDanhSachNhanVien.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormDanhSachNhanVien.cs",
-              "RelativeToolTip": "NhanVien\\FormDanhSachNhanVien.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwKcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:55:28.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormDanhSachNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormDanhSachNhanVien.cs",
-              "RelativeDocumentMoniker": "NhanVien\\FormDanhSachNhanVien.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormDanhSachNhanVien.cs [Design]",
-              "RelativeToolTip": "NhanVien\\FormDanhSachNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:55:45.596Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormThemNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormThemNhanVien.cs",
-              "RelativeDocumentMoniker": "NhanVien\\FormThemNhanVien.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\NhanVien\\FormThemNhanVien.cs",
-              "RelativeToolTip": "NhanVien\\FormThemNhanVien.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:15:37.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormSuaKhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormSuaKhachHang.cs",
-              "RelativeDocumentMoniker": "KhachHang\\FormSuaKhachHang.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormSuaKhachHang.cs",
-              "RelativeToolTip": "KhachHang\\FormSuaKhachHang.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAmwL4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:52:19.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Properties\\Resources.resx",
-              "RelativeToolTip": "Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-10-26T01:18:44.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FormSuaKhachHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormSuaKhachHang.cs",
-              "RelativeDocumentMoniker": "KhachHang\\FormSuaKhachHang.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormSuaKhachHang.cs [Design]",
-              "RelativeToolTip": "KhachHang\\FormSuaKhachHang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:40:23.351Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormDanhSachKhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormDanhSachKhachHang.cs",
-              "RelativeDocumentMoniker": "KhachHang\\FormDanhSachKhachHang.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormDanhSachKhachHang.cs",
-              "RelativeToolTip": "KhachHang\\FormDanhSachKhachHang.cs",
-              "ViewState": "AgIAAOUAAAAAAAAAAAAawPkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:35:19.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FormDanhSachKhachHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormDanhSachKhachHang.cs",
-              "RelativeDocumentMoniker": "KhachHang\\FormDanhSachKhachHang.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\KhachHang\\FormDanhSachKhachHang.cs [Design]",
-              "RelativeToolTip": "KhachHang\\FormDanhSachKhachHang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:34:36.912Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FormThemTienNghi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormThemTienNghi.cs",
-              "RelativeDocumentMoniker": "TienNghi\\FormThemTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormThemTienNghi.cs [Design]",
-              "RelativeToolTip": "TienNghi\\FormThemTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:25:26.336Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FormSuaTienNghi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormSuaTienNghi.cs",
-              "RelativeDocumentMoniker": "TienNghi\\FormSuaTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormSuaTienNghi.cs [Design]",
-              "RelativeToolTip": "TienNghi\\FormSuaTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:33:47.817Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FormDanhSachTienNghi.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormDanhSachTienNghi.cs",
-              "RelativeDocumentMoniker": "TienNghi\\FormDanhSachTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormDanhSachTienNghi.cs",
-              "RelativeToolTip": "TienNghi\\FormDanhSachTienNghi.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:21:14.036Z",
+              "WhenOpened": "2026-11-09T03:00:34.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "FormDanhSachTienNghi.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "RelativeDocumentMoniker": "TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "RelativeToolTip": "TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "FormThemTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan\\FormThemTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormThemTaiKhoan.cs [Design]",
+              "RelativeToolTip": "TaiKhoan\\FormThemTaiKhoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:32:02.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FormSuaTienNghi.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormSuaTienNghi.cs",
-              "RelativeDocumentMoniker": "TienNghi\\FormSuaTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormSuaTienNghi.cs",
-              "RelativeToolTip": "TienNghi\\FormSuaTienNghi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:30:13.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FormThemTienNghi.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormThemTienNghi.cs",
-              "RelativeDocumentMoniker": "TienNghi\\FormThemTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormThemTienNghi.cs",
-              "RelativeToolTip": "TienNghi\\FormThemTienNghi.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAuwGsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:27:02.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FormDanhSachTienNghi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormDanhSachTienNghi.cs",
-              "RelativeDocumentMoniker": "TienNghi\\FormDanhSachTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\TienNghi\\FormDanhSachTienNghi.cs [Design]",
-              "RelativeToolTip": "TienNghi\\FormDanhSachTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:22:03.054Z",
+              "WhenOpened": "2026-11-09T02:48:10.999Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FormSuaDichVu.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormSuaDichVu.cs",
-              "RelativeDocumentMoniker": "DichVu\\FormSuaDichVu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormSuaDichVu.cs",
-              "RelativeToolTip": "DichVu\\FormSuaDichVu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANwAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FormDanhSachTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\TaiKhoan\\FormDanhSachTaiKhoan.cs [Design]",
+              "RelativeToolTip": "TaiKhoan\\FormDanhSachTaiKhoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:18:32.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FormSuaDichVu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormSuaDichVu.cs",
-              "RelativeDocumentMoniker": "DichVu\\FormSuaDichVu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormSuaDichVu.cs [Design]",
-              "RelativeToolTip": "DichVu\\FormSuaDichVu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:11:32.471Z",
+              "WhenOpened": "2026-11-08T19:17:43.571Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FormThemDichVu.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormThemDichVu.cs",
-              "RelativeDocumentMoniker": "DichVu\\FormThemDichVu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormThemDichVu.cs",
-              "RelativeToolTip": "DichVu\\FormThemDichVu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "FormHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon\\FormHoaDon.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\HoaDon\\FormHoaDon.cs [Design]",
+              "RelativeToolTip": "HoaDon\\FormHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:13:56.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FormThemDichVu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormThemDichVu.cs",
-              "RelativeDocumentMoniker": "DichVu\\FormThemDichVu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormThemDichVu.cs [Design]",
-              "RelativeToolTip": "DichVu\\FormThemDichVu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T00:59:23.789Z",
+              "WhenOpened": "2026-11-08T19:16:22.684Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FormDanhSachDichVu.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormDanhSachDichVu.cs",
-              "RelativeDocumentMoniker": "DichVu\\FormDanhSachDichVu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormDanhSachDichVu.cs",
-              "RelativeToolTip": "DichVu\\FormDanhSachDichVu.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "FormDanhSachPhieuThue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormDanhSachPhieuThue.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormDanhSachPhieuThue.cs [Design]",
+              "RelativeToolTip": "PhieuThue\\FormDanhSachPhieuThue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T03:04:57.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormMain.cs",
-              "RelativeDocumentMoniker": "FormMain.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormMain.cs",
-              "RelativeToolTip": "FormMain.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAqwKQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T07:50:09.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "FormDanhSachDichVu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormDanhSachDichVu.cs",
-              "RelativeDocumentMoniker": "DichVu\\FormDanhSachDichVu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DichVu\\FormDanhSachDichVu.cs [Design]",
-              "RelativeToolTip": "DichVu\\FormDanhSachDichVu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T00:38:22.873Z",
+              "WhenOpened": "2026-11-08T19:15:32.228Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormMain.cs",
-              "RelativeDocumentMoniker": "FormMain.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormMain.cs [Design]",
-              "RelativeToolTip": "FormMain.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "FormChiTietPhieuThue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "RelativeDocumentMoniker": "PhieuThue\\FormChiTietPhieuThue.cs",
+              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\PhieuThue\\FormChiTietPhieuThue.cs [Design]",
+              "RelativeToolTip": "PhieuThue\\FormChiTietPhieuThue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T07:01:33.426Z",
+              "WhenOpened": "2026-11-08T19:14:52.233Z",
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "FormDatPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormDatPhong.cs",
-              "RelativeDocumentMoniker": "SoDoPhong\\FormDatPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormDatPhong.cs [Design]",
-              "RelativeToolTip": "SoDoPhong\\FormDatPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:36:52.228Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "FormDatPhong.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormDatPhong.cs",
-              "RelativeDocumentMoniker": "SoDoPhong\\FormDatPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormDatPhong.cs",
-              "RelativeToolTip": "SoDoPhong\\FormDatPhong.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:54:55.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "FormSoDoPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormSoDoPhong.cs",
-              "RelativeDocumentMoniker": "SoDoPhong\\FormSoDoPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormSoDoPhong.cs [Design]",
-              "RelativeToolTip": "SoDoPhong\\FormSoDoPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T12:15:40.862Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "FormSuaChiTietTienNghi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs [Design]",
-              "RelativeToolTip": "ChiTietTienNghi\\FormSuaChiTietTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:31:42.209Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "FormThemPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormThemPhong.cs",
-              "RelativeDocumentMoniker": "Phong\\FormThemPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormThemPhong.cs [Design]",
-              "RelativeToolTip": "Phong\\FormThemPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T19:16:50.91Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "FormSuaPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormSuaPhong.cs",
-              "RelativeDocumentMoniker": "Phong\\FormSuaPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormSuaPhong.cs [Design]",
-              "RelativeToolTip": "Phong\\FormSuaPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T19:18:08.112Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "FormSuaLoaiPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormSuaLoaiPhong.cs",
-              "RelativeDocumentMoniker": "LoaiPhong\\FormSuaLoaiPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormSuaLoaiPhong.cs [Design]",
-              "RelativeToolTip": "LoaiPhong\\FormSuaLoaiPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T19:20:50.619Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "FormThemLoaiPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormThemLoaiPhong.cs",
-              "RelativeDocumentMoniker": "LoaiPhong\\FormThemLoaiPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormThemLoaiPhong.cs [Design]",
-              "RelativeToolTip": "LoaiPhong\\FormThemLoaiPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T19:20:09.341Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "FormDanhSachLoaiPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "RelativeDocumentMoniker": "LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
-              "RelativeToolTip": "LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T19:19:25.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "FormDanhSachPhong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormDanhSachPhong.cs",
-              "RelativeDocumentMoniker": "Phong\\FormDanhSachPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormDanhSachPhong.cs [Design]",
-              "RelativeToolTip": "Phong\\FormDanhSachPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T18:39:54.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "FormThemPhong.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormThemPhong.cs",
-              "RelativeDocumentMoniker": "Phong\\FormThemPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormThemPhong.cs",
-              "RelativeToolTip": "Phong\\FormThemPhong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T03:38:07.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:17:35.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "FormDanhSachPhong.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormDanhSachPhong.cs",
-              "RelativeDocumentMoniker": "Phong\\FormDanhSachPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormDanhSachPhong.cs",
-              "RelativeToolTip": "Phong\\FormDanhSachPhong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T18:57:52.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Properties\\Resources.Designer.cs",
-              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Properties\\Resources.Designer.cs",
-              "RelativeToolTip": "Properties\\Resources.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T04:29:47.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "FormSuaLoaiPhong.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormSuaLoaiPhong.cs",
-              "RelativeDocumentMoniker": "LoaiPhong\\FormSuaLoaiPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormSuaLoaiPhong.cs",
-              "RelativeToolTip": "LoaiPhong\\FormSuaLoaiPhong.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAYwA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T04:03:41.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "FormThemLoaiPhong.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormThemLoaiPhong.cs",
-              "RelativeDocumentMoniker": "LoaiPhong\\FormThemLoaiPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\LoaiPhong\\FormThemLoaiPhong.cs",
-              "RelativeToolTip": "LoaiPhong\\FormThemLoaiPhong.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAQwAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T04:00:19.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "FormMain.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormMain.Designer.cs",
-              "RelativeDocumentMoniker": "FormMain.Designer.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormMain.Designer.cs",
-              "RelativeToolTip": "FormMain.Designer.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T08:30:12.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "FormSuaPhong.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormSuaPhong.cs",
-              "RelativeDocumentMoniker": "Phong\\FormSuaPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormSuaPhong.cs",
-              "RelativeToolTip": "Phong\\FormSuaPhong.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAwIkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T03:41:26.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "FormDanhSachPhong.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormDanhSachPhong.Designer.cs",
-              "RelativeDocumentMoniker": "Phong\\FormDanhSachPhong.Designer.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Phong\\FormDanhSachPhong.Designer.cs",
-              "RelativeToolTip": "Phong\\FormDanhSachPhong.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T19:02:33.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "FormTrangChu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormTrangChu.Designer.cs",
-              "RelativeDocumentMoniker": "FormTrangChu.Designer.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormTrangChu.Designer.cs",
-              "RelativeToolTip": "FormTrangChu.Designer.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T09:21:22.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "FormSoDoPhong.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormSoDoPhong.cs",
-              "RelativeDocumentMoniker": "SoDoPhong\\FormSoDoPhong.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormSoDoPhong.cs",
-              "RelativeToolTip": "SoDoPhong\\FormSoDoPhong.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAqwNUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T16:44:48.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "FormSoDoPhong.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "RelativeDocumentMoniker": "SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "RelativeToolTip": "SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "ViewState": "AgIAAHQBAAAAAAAAAAAQwIoBAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T16:29:24.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "FormTrangChu.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormTrangChu.cs",
-              "RelativeDocumentMoniker": "FormTrangChu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormTrangChu.cs",
-              "RelativeToolTip": "FormTrangChu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T09:27:50.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "FormTrangChu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormTrangChu.cs",
-              "RelativeDocumentMoniker": "FormTrangChu.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\FormTrangChu.cs [Design]",
-              "RelativeToolTip": "FormTrangChu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T09:21:01.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "FormDangNhap.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DangNhap\\FormDangNhap.Designer.cs",
-              "RelativeDocumentMoniker": "DangNhap\\FormDangNhap.Designer.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DangNhap\\FormDangNhap.Designer.cs",
-              "RelativeToolTip": "DangNhap\\FormDangNhap.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:34:55.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "TaiKhoan.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Models\\TaiKhoan.cs",
-              "RelativeDocumentMoniker": "Models\\TaiKhoan.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Models\\TaiKhoan.cs",
-              "RelativeToolTip": "Models\\TaiKhoan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:14:44.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "FormDangNhap.resx",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DangNhap\\FormDangNhap.resx",
-              "RelativeDocumentMoniker": "DangNhap\\FormDangNhap.resx",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\DangNhap\\FormDangNhap.resx",
-              "RelativeToolTip": "DangNhap\\FormDangNhap.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-10-26T03:34:58.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "Ctdp.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Models\\Ctdp.cs",
-              "RelativeDocumentMoniker": "Models\\Ctdp.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Models\\Ctdp.cs",
-              "RelativeToolTip": "Models\\Ctdp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:38:39.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Ctdv.cs",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Models\\Ctdv.cs",
-              "RelativeDocumentMoniker": "Models\\Ctdv.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\Models\\Ctdv.cs",
-              "RelativeToolTip": "Models\\Ctdv.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:38:41.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:29:59.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MY HANG\\Downloads\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs",
-              "ToolTip": "C:\\Users\\MY HANG\\Downloads\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\THUCHANH\\QuanLyHoatDongKhachSan\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T00:33:22.183Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

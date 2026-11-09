@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8zvr/q88wKU=",
+  "dgSpecHash": "z0y3ZRHvrp8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
+  "projectFilePath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MY HANG\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\MY HANG\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
@@ -83,9 +83,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.VisualBasic 4.0.1 requires Microsoft.CodeAnalysis.Common (= 4.0.1) but version Microsoft.CodeAnalysis.Common 5.0.0 was resolved.",
-      "projectPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
+      "projectPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
+      "filePath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
       "libraryId": "Microsoft.CodeAnalysis.Common",
       "targetGraphs": [
         "net10.0-windows"
@@ -95,9 +95,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'iTextSharp 5.5.13.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
+      "projectPath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB1\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
+      "filePath": "C:\\Users\\MY HANG\\Downloads\\THUCHANHLAB12\\QuanLyHoatDongKhachSan\\QuanLyHoatDongKhachSan.csproj",
       "libraryId": "iTextSharp",
       "targetGraphs": [
         "net10.0-windows"

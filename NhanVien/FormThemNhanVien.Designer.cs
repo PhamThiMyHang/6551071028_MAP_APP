@@ -30,6 +30,7 @@
         {
             label5 = new Label();
             panel1 = new Panel();
+            cbChucVu = new ComboBox();
             txtMaNV = new TextBox();
             label11 = new Label();
             label10 = new Label();
@@ -51,7 +52,6 @@
             cbGioiTinh = new ComboBox();
             btnThoat = new Button();
             btnThemMoi = new Button();
-            cbChucVu = new ComboBox();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -93,6 +93,17 @@
             panel1.Padding = new Padding(3, 4, 3, 4);
             panel1.Size = new Size(1000, 392);
             panel1.TabIndex = 34;
+            // 
+            // cbChucVu
+            // 
+            cbChucVu.Font = new Font("Segoe UI", 12F);
+            cbChucVu.FormattingEnabled = true;
+            cbChucVu.Items.AddRange(new object[] { "Nam", "Nữ" });
+            cbChucVu.Location = new Point(158, 88);
+            cbChucVu.Margin = new Padding(3, 4, 3, 4);
+            cbChucVu.Name = "cbChucVu";
+            cbChucVu.Size = new Size(272, 36);
+            cbChucVu.TabIndex = 34;
             // 
             // txtMaNV
             // 
@@ -299,17 +310,6 @@
             btnThemMoi.Text = "Thêm mới";
             btnThemMoi.UseVisualStyleBackColor = false;
             btnThemMoi.Click += btnThemMoi_Click_1;
-            // 
-            // cbChucVu
-            // 
-            cbChucVu.Font = new Font("Segoe UI", 12F);
-            cbChucVu.FormattingEnabled = true;
-            cbChucVu.Items.AddRange(new object[] { "Nam", "Nữ" });
-            cbChucVu.Location = new Point(158, 88);
-            cbChucVu.Margin = new Padding(3, 4, 3, 4);
-            cbChucVu.Name = "cbChucVu";
-            cbChucVu.Size = new Size(272, 36);
-            cbChucVu.TabIndex = 34;
             // 
             // FormThemNhanVien
             // 
